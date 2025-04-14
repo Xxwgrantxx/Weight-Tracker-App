@@ -1,6 +1,7 @@
 # Weight Tracker App
 The weight tracker app is a system designed to give users the ability to define a goal weight and track their progress towards that goal weight.
 Neccessary features:
+
 To meet the user’s needs, several screens were required. There needed to be screens to add/update a goal weight, add/up daily weights, and a screen to view the history of weights added. To give the user more flexibility when it comes to keeping taps on being close to their goal weight, there is also a feature added to alert the user once they have reached their goal weight. Each user is also able to create their own account to ensure data security.
 Approach/Strategy
 I first determined the features required to meet user needs. I then brainstormed on a user interface that portraited these features. After brainstorming, I designed a simple wireframe for the user interface. Once I felt comfortable with these areas, I moved to coding the main screens along with their functionality, testing as I progressed.
