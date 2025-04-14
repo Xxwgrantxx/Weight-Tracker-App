@@ -26,6 +26,7 @@ To ensure a seamless user experience:
 - Example bug fix: Adjusted text color in input fields for better visibility.
 
 Challenges
+
 One of the most significant hurdles was managing user profile data securely. Separating profile-specific information required revisiting database concepts to ensure:
 
 - Accurate data retrieval during login.
@@ -39,6 +40,7 @@ I am most proud of the Main Screen:
 - Added dynamic button behavior based on user input criteria.
 
 Conclusion
+
 This project showcases my skills in UI design, database management, and problem-solving, highlighting my ability to develop user-friendly applications that prioritize security and functionality.
 
 
